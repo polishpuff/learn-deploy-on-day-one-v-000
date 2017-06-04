@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#karolina-kumiega-cover {
+    background-image: url("http://i.imgur.com/56bznbH.jpg");
+}
+
+#karolina-kumiega-card {
+    background-image: url("http://i.imgur.com/TiL1CmJ.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
